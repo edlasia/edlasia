@@ -1,4 +1,4 @@
-- 👋 olá, meu nome é @edlasia 
+- 👋 olá, meu nome é Edlásia 
 - 🌱 Atualmente estou cursando " Programador de sistemas"
 -  Estou procurando colaborar em projetos que possam me proporcionar conhecimentos novos.
 - 📫 para me encontrar  edlasiapereira@gmail.com
