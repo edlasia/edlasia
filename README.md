@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @edlasia 
+- 👋 olá, meu nome é @edlasia 
 - 🌱 Atualmente estou cursando " Programador de sistemas"
 - 💞️ Estou procurando colaborar em projetos que possam me proporcionar conhecimentos novos.
-- 📫 Para que me encontre edlasiapereira@gmail.com
+- 📫 para me encontrar  edlasiapereira@gmail.com
 
 <!---
 edlasia/edlasia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
